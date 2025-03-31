@@ -13,14 +13,14 @@ The programming concepts in this document are abstraction, method overloading, e
 - next we Ensure the grade value always remains within a valid range ie (0-100).
 
 
-## Question 1B
+# Question 1B
 ### 2. Main.java
 **Concepts:** This question covers Polymorphism(Method overriding) and Method Overloading.
 - This consists of `MathOperations` class shoing **method overleading** with multiple `multiply()` methods.
 - it also includes an `Animal` class with a `makeSound()` method,which are overridden in the `Dog` and `Cat` subclass.
 - This shows **runtime polymorphism** as it calls overridden methods dynamiclly.
  
-## Question 2A
+# Question 2A
 ### 3. TestAppliance.java
 - **Concepts:** This is to show Abstraction (Abstract Classes)
 - First implement an abstract class `appliance` with an abstract method `trunOn()`.
@@ -28,7 +28,7 @@ The programming concepts in this document are abstraction, method overloading, e
 - Then we Demonstrate **abstraction* by enforcing method implementation in the child classes.
 
 
-## Question 2B
+# Question 2B
 ### 4. DivisionExample.java
 - **Concepts:** This covers Expectation handling and user input
 - The program will take 2 integers from the user and will divide them
