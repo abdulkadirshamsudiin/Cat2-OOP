@@ -6,7 +6,7 @@ The programming concepts in this document are abstraction, method overloading, e
 
 ## The cat Answers 
 # Question 1A
-### Student.java
+### File Name: Student.java
 **Concepts:** This demonstrates Encapsulation, Getters, and Setters  
 - First we define a `Student` Class with 2 private attributes `name` and `grade`.
 - We use **getters and setters** to control the access to the private attributes.
@@ -14,14 +14,14 @@ The programming concepts in this document are abstraction, method overloading, e
 
 
 # Question 1B
-### Main.java
+###  File Name: Main.java
 **Concepts:** This question covers Polymorphism(Method overriding) and Method Overloading.
 - This consists of `MathOperations` class shoing **method overleading** with multiple `multiply()` methods.
 - it also includes an `Animal` class with a `makeSound()` method,which are overridden in the `Dog` and `Cat` subclass.
 - This shows **runtime polymorphism** as it calls overridden methods dynamiclly.
  
 # Question 2A
-### TestAppliance.java
+###  File Name: TestAppliance.java
 - **Concepts:** This is to show Abstraction (Abstract Classes)
 - First implement an abstract class `appliance` with an abstract method `trunOn()`.
 - then the Subclass `Fan` and `TV` provide specific implementations of `runOn`.
@@ -29,7 +29,7 @@ The programming concepts in this document are abstraction, method overloading, e
 
 
 # Question 2B
-### DivisionExample.java
+###  File Name: DivisionExample.java
 - **Concepts:** This covers Expectation handling and user input
 - The program will take 2 integers from the user and will divide them
 - then it will handle the `arthmeticExpectation` to prevent division by zero.
